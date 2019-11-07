@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
+		0EC1B5892374923E0025D1D9 /* Lab - Strings.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "Lab - Strings.playground"; path = "lab/Lab - Strings.playground"; sourceTree = SOURCE_ROOT; };
 		0EC4232B233A5CE700FBCA00 /* Tree 4.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Tree 4.pdf"; sourceTree = "<group>"; };
 		0EC4232C233A5CE700FBCA00 /* Tree 5.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Tree 5.pdf"; sourceTree = "<group>"; };
 		0EC4232D233A5CE700FBCA00 /* Tree 7.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Tree 7.pdf"; sourceTree = "<group>"; };
@@ -172,6 +173,7 @@
 		0EC4233C233A5CE700FBCA00 /* lab */ = {
 			isa = PBXGroup;
 			children = (
+				0EC1B5892374923E0025D1D9 /* Lab - Strings.playground */,
 			);
 			path = lab;
 			sourceTree = "<group>";
