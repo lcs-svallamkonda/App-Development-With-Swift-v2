@@ -8,6 +8,11 @@
 
 /* Begin PBXFileReference section */
 		0EC1B5892374923E0025D1D9 /* Lab - Strings.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "Lab - Strings.playground"; path = "lab/Lab - Strings.playground"; sourceTree = SOURCE_ROOT; };
+		0EC1B58A237B0F3D0025D1D9 /* Lab - Functions.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "Lab - Functions.playground"; path = "lab/Lab - Functions.playground"; sourceTree = SOURCE_ROOT; };
+		0EC1B58B237B0F4D0025D1D9 /* Lab - Structures.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "Lab - Structures.playground"; path = "lab/Lab - Structures.playground"; sourceTree = SOURCE_ROOT; };
+		0EC1B58C237B0F600025D1D9 /* Lab - Classes.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "Lab - Classes.playground"; path = "lab/Lab - Classes.playground"; sourceTree = SOURCE_ROOT; };
+		0EC1B58D237B0F6B0025D1D9 /* Lab - Collections.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "Lab - Collections.playground"; path = "lab/Lab - Collections.playground"; sourceTree = SOURCE_ROOT; };
+		0EC1B58E237B0F780025D1D9 /* Lab - Loops.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "Lab - Loops.playground"; path = "lab/Lab - Loops.playground"; sourceTree = SOURCE_ROOT; };
 		0EC4232B233A5CE700FBCA00 /* Tree 4.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Tree 4.pdf"; sourceTree = "<group>"; };
 		0EC4232C233A5CE700FBCA00 /* Tree 5.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Tree 5.pdf"; sourceTree = "<group>"; };
 		0EC4232D233A5CE700FBCA00 /* Tree 7.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Tree 7.pdf"; sourceTree = "<group>"; };
@@ -113,6 +118,7 @@
 		0EC42334233A5CE700FBCA00 /* lab */ = {
 			isa = PBXGroup;
 			children = (
+				0EC1B58A237B0F3D0025D1D9 /* Lab - Functions.playground */,
 			);
 			path = lab;
 			sourceTree = "<group>";
@@ -128,6 +134,7 @@
 		0EC42336233A5CE700FBCA00 /* lab */ = {
 			isa = PBXGroup;
 			children = (
+				0EC1B58D237B0F6B0025D1D9 /* Lab - Collections.playground */,
 			);
 			path = lab;
 			sourceTree = "<group>";
@@ -143,6 +150,7 @@
 		0EC42338233A5CE700FBCA00 /* lab */ = {
 			isa = PBXGroup;
 			children = (
+				0EC1B58B237B0F4D0025D1D9 /* Lab - Structures.playground */,
 			);
 			path = lab;
 			sourceTree = "<group>";
@@ -158,6 +166,7 @@
 		0EC4233A233A5CE700FBCA00 /* lab */ = {
 			isa = PBXGroup;
 			children = (
+				0EC1B58E237B0F780025D1D9 /* Lab - Loops.playground */,
 			);
 			path = lab;
 			sourceTree = "<group>";
@@ -189,6 +198,7 @@
 		0EC4233E233A5CE700FBCA00 /* lab */ = {
 			isa = PBXGroup;
 			children = (
+				0EC1B58C237B0F600025D1D9 /* Lab - Classes.playground */,
 			);
 			path = lab;
 			sourceTree = "<group>";
