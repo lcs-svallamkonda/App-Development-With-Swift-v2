@@ -18,6 +18,9 @@
 		0EC1B591237B0FC80025D1D9 /* Lab - Scope.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "Lab - Scope.playground"; path = "lab/Lab - Scope.playground"; sourceTree = SOURCE_ROOT; };
 		0EC1B592237B0FE50025D1D9 /* Lab - Enumerations.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "Lab - Enumerations.playground"; path = "lab/Lab - Enumerations.playground"; sourceTree = SOURCE_ROOT; };
 		0EC1B593237B100E0025D1D9 /* Lab - Protocols.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "Lab - Protocols.playground"; path = "lab/Lab - Protocols.playground"; sourceTree = SOURCE_ROOT; };
+		0EC1B594237B11920025D1D9 /* Lab - Closures.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "Lab - Closures.playground"; path = "lab/Lab - Closures.playground"; sourceTree = SOURCE_ROOT; };
+		0EC1B595237B11B70025D1D9 /* Lab - Extensions.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "Lab - Extensions.playground"; path = "lab/Lab - Extensions.playground"; sourceTree = SOURCE_ROOT; };
+		0EC1B596237B11C90025D1D9 /* iTunesSearch.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = iTunesSearch.playground; path = lab/iTunesSearch.playground; sourceTree = SOURCE_ROOT; };
 		0EC4232B233A5CE700FBCA00 /* Tree 4.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Tree 4.pdf"; sourceTree = "<group>"; };
 		0EC4232C233A5CE700FBCA00 /* Tree 5.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Tree 5.pdf"; sourceTree = "<group>"; };
 		0EC4232D233A5CE700FBCA00 /* Tree 7.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Tree 7.pdf"; sourceTree = "<group>"; };
@@ -377,6 +380,7 @@
 		0EC42360233A5CFC00FBCA00 /* lab */ = {
 			isa = PBXGroup;
 			children = (
+				0EC1B595237B11B70025D1D9 /* Lab - Extensions.playground */,
 			);
 			path = lab;
 			sourceTree = "<group>";
@@ -419,6 +423,7 @@
 		0EC42370233A5CFC00FBCA00 /* lab */ = {
 			isa = PBXGroup;
 			children = (
+				0EC1B594237B11920025D1D9 /* Lab - Closures.playground */,
 			);
 			path = lab;
 			sourceTree = "<group>";
@@ -434,6 +439,7 @@
 		0EC42372233A5CFC00FBCA00 /* lab */ = {
 			isa = PBXGroup;
 			children = (
+				0EC1B596237B11C90025D1D9 /* iTunesSearch.playground */,
 			);
 			path = lab;
 			sourceTree = "<group>";
